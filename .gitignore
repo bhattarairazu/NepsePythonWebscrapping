@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.pyc
+venv/
+fenv/
+log.txt
+pari2_dbapi/data/uploads/
